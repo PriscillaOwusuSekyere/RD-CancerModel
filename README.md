@@ -8,7 +8,7 @@
 2. Run the .m files in each folder: Use the pde codes file for the pde simulations and the numerical simulation codes file to simulate the numerical bifurcation simulations. 
 3. For the numerical birfucation:  Modify cases == 1 or cases == 2 to toggle between parameter sweep types:
 cases = 1: For paramter r  or Cases = 2: For parameter s
-
+https://github.com/PriscillaOwusuSekyere/RD-CancerModel/blob/main/Numerical%20Bifurcation%20codes.zip
 
 For the pde simulations: https://github.com/PriscillaOwusuSekyere/RD-CancerModel/blob/main/ALL%20PDE%20CODES.zip
  pdepe handles space-time adaptive meshing

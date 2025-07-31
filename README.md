@@ -12,6 +12,8 @@ https://github.com/PriscillaOwusuSekyere/RD-CancerModel/blob/main/Numerical%20Bi
 
 For the pde simulations: https://github.com/PriscillaOwusuSekyere/RD-CancerModel/blob/main/ALL%20PDE%20CODES.zip
  pdepe handles space-time adaptive meshing
+
+ For the additional codes file, please run each code separately to view simulation that complemnts the analystical stability analysis of the baseline equilibruim of the ODE and PDE systems.
  
 4. View and save the output plots.
 
